@@ -1,2 +1,2 @@
 # Ol-Mundo-
-ste repositório é para praticar o GitHub Flo
+Este repositório é para praticar o GitHub Flow
